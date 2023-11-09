@@ -1,1 +1,4 @@
-This branch includes a data analysis based projects I've created. It includes a personal excel project about one of the best soccer players in the history. It also includes PowerBI and SQL projects. 
+# Data Analysis Projects
+
+This section showcases my data analysis projects, encompassing Excel, Power BI, and SQL tools. These projects demonstrate my ability to extract meaningful insights from complex datasets, utilizing various data visualization techniques to effectively communicate findings.
+
